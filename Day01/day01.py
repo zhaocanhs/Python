@@ -1,8 +1,8 @@
-#-*- coding:utf-8 -*-
-#作者：火小森
-import getpass  #密码模块
+# -*- coding:utf-8 -*-
+# 作者：火小森
+import getpass  # 密码模块
 
-#输入输出-go
+# 输入输出-go
 
 # print("hello world")
 # # python 中数据类型不需要定义，系统会自动定义
@@ -47,7 +47,7 @@ import getpass  #密码模块
 # '''.format(name,age,job,salary)
 # print(info3)
 
-#输入输出-end
+# 输入输出-end
 
 # if-else -go
 
@@ -71,10 +71,10 @@ import getpass  #密码模块
 # if-else -end
 
 # while  -go
-count=0
-while True:
-    print("count:",count)
-    count+=1
+count = 0
+while True :
+	print ( "count:" , count )
+	count += 1
 
 # while可以和else结合；while的条件成立，执行while的循环体，否在不成立就执行else循环体。
 
@@ -84,15 +84,15 @@ while True:
 # for i in range(10):
 # else
 #     循环体
-#for -end
+# for -end
 
 # for -go
 
-#for -end
+# for -end
 
 # for -go
-#for -end
+# for -end
 
 # for -go
 
-#for -end
+# for -end
